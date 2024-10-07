@@ -1,5 +1,6 @@
 # Tracky
 This is only an overview of the project (private repository, no code in this public repository).
+<img src="media/tracky-overview.png" alt="Tracky Logo" width="40%">
 
 Tech-stack:
 - NodeJS
@@ -11,7 +12,6 @@ Tech-stack:
 
 Developed as a desktop application, in Tauri, for MacOs.
 
-<img src="media/tracky-overview.png" alt="Tracky Logo" width="70%">
 
 ## Introduction
 
@@ -38,15 +38,4 @@ The **Dashboard** offers a snapshot of the user's time usage across various appl
 
 Tracky allows users to organize their applications into custom categories such as "Work," "Entertainment," and "Fun." Each application can be marked as either **productive** or **unproductive**, providing a clearer picture of how much time is spent on meaningful tasks versus distractions.
 
-### Example Categories:
-- **Work**: Code (9h 36m, productive), ChatGPT (1h 40m, productive).
-- **Entertainment**: Spotify (0h 20m, unproductive), YouTube (0h 20m, unproductive).
-- **Fun**: Discord (0h 6m, unproductive).
 
-Users can create and manage their own categories, which helps tailor the app to individual productivity goals.
-
----
-
-## Conclusion
-
-Tracky is more than just a time-tracker; it's a tool for understanding how time is allocated across different tasks and applications. With a clear visual breakdown of usage and the ability to categorize activities, users can identify patterns in their behavior, make informed decisions, and ultimately become more productive.
