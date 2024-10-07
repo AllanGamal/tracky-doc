@@ -1,5 +1,5 @@
 # Tracky
-This is only an overview of the project (private repository, no code in this public repository).
+This is only an overview of the **ongoing** project (private repository, no code in this public repository).
 
 Tech-stack:
 - NodeJS
