@@ -1,6 +1,5 @@
 # Tracky
 This is only an overview of the project (private repository, no code in this public repository).
-<img src="media/tracky-overview.png" alt="Tracky Logo" width="40%">
 
 Tech-stack:
 - NodeJS
@@ -12,13 +11,14 @@ Tech-stack:
 
 Developed as a desktop application, in Tauri, for MacOs.
 
+![Tracky Dashboard](media/tracky-overview.gif)
 
 ## Introduction
 
 Tracky is a time-tracking and productivity analysis application designed to help users monitor and improve their digital habits. It tracks time spent on different applications, provides insights through visual analytics, and helps users categorize their activities as productive or unproductive or any other category. The goal is to give users a clear picture of how they spend their time.
 
-![Tracky Dashboard](media/tracky-overview.gif)
 ---
+<img src="media/tracky-overview.png" alt="Tracky Logo" width="100%">
 
 ## Dashboard Overview
 
